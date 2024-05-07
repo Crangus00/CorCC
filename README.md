@@ -68,7 +68,7 @@ CorCC_OpenJ: https://colab.research.google.com/drive/1r4nl7GuQM3XfNlMX1iFLZYZxy6
 
 The colab for the Combined Generative Method vs Real Cat Image Model can be found:
 
-https://colab.research.google.com/drive/1nSzlImKqshrwo1lAQyhcVkZdPdb7IjmK?usp=sharing
+CorCC_Combined: https://colab.research.google.com/drive/1nSzlImKqshrwo1lAQyhcVkZdPdb7IjmK?usp=sharing
 
 ![combimages](Comb_gen_Cat_Images.jpg)
 
